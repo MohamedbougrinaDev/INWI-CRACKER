@@ -1,0 +1,5 @@
+pillow 
+pyfiglet
+colorama
+requests
+pytesseract
